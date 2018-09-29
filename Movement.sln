@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement", "Movement\Movement.csproj", "{404B3BBE-28A7-4CD4-A031-D338AB4D7047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404B3BBE-28A7-4CD4-A031-D338AB4D7047}.Debug|x86.ActiveCfg = Debug|x86
+		{404B3BBE-28A7-4CD4-A031-D338AB4D7047}.Debug|x86.Build.0 = Debug|x86
+		{404B3BBE-28A7-4CD4-A031-D338AB4D7047}.Release|x86.ActiveCfg = Release|x86
+		{404B3BBE-28A7-4CD4-A031-D338AB4D7047}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5488DBF3-127F-4D41-A321-03F8A8B3DB9D}
+	EndGlobalSection
+EndGlobal
